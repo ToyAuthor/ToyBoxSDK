@@ -1,6 +1,6 @@
 
 msvc2015_release
-    Visual Studio 2015
+    Visual Studio 2015(32bit mode)
     Windows 7 64bit
 
 tdm_gcc_64bit_release
@@ -9,4 +9,4 @@ tdm_gcc_64bit_release
 
 ubuntu_gcc_64bit_release
     GCC
-    Ubuntu
+    Ubuntu 64bit
