@@ -1,12 +1,13 @@
 
-msvc2015_release
-    Visual Studio 2015(32bit mode)
-    Windows 7 64bit
+ToyBoxSDK is a set of developer tools.
+All of those libraries are made for C++ project.
 
-tdm_gcc_64bit_release
-    TDM-GCC
-    Windows 7 64bit
 
-ubuntu_gcc_64bit_release
-    GCC
-    Ubuntu 64bit
+include
+    Header files here.
+
+lib
+    Binary libraries here.
+
+license
+    All the license files here.

@@ -1,0 +1,7 @@
+boost-1.60.0            Boost Software License
+SFML-2.3.2              zlib License
+freetype-2.5.3          FreeType License or GPL License
+libpng-1.6.12           libpng License
+GMP-6.1.2               GNU LGPL
+MPIR-3.0.0              GNU LGPL
+FLTK-1.3.4              GNU LGPL v2
