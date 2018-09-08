@@ -10,3 +10,7 @@ tdm_gcc_64bit_release
 ubuntu_gcc_64bit_release
     GCC
     Ubuntu 64bit
+
+mac_llvmgcc_64bit_release
+    llvm-gcc
+    Mac OS 64bit
